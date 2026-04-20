@@ -1,6 +1,6 @@
 # Althuraya Invitations – Automation System Project
 
-Designed and implemented an automation system for althuraya.store/ during my internship at Althuraya Venture Builder, using WhatsApp and Telegram bots with n8n to manage orders, automate pricing, and streamline workflow operations. Developed as an individual project.
+Designed and implemented an automation system for [Althuraya Invitations Store/](https://althuraya.store/) during my internship at Althuraya Venture Builder, using WhatsApp and Telegram bots with n8n to manage orders, automate pricing, and streamline workflow operations. Developed as an individual project.
 
 ---
 
